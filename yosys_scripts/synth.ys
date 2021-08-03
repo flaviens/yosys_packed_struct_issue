@@ -1,0 +1,2 @@
+read_verilog -defer -sv src/top_module.sv
+hierarchy -top top_module -check
